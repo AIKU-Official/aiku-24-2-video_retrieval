@@ -13,7 +13,7 @@
 ![pipeline](assets/model_pipeline.png)
 
 ## 결과
-`assets/result.mp4` 참고
+[`assets/result.mp4` 참고](https://github.com/user-attachments/assets/dcae2979-9757-443e-b589-70cfc8fe2709)
 
 ## 팀원
 
