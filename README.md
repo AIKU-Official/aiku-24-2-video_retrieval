@@ -13,7 +13,7 @@
 ![pipeline](assets/model_pipeline.png)
 
 ## 결과
-![result video](assets/result.mp4)
+`assets/result.mp4` 참고
 
 ## 팀원
 
