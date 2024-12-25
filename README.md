@@ -1,6 +1,6 @@
 # Video retrieval
 
-> 📢 2024년 2학기 [AIKU](https://github.com/AIKU-Official) 활동으로 진행한 프로젝트입니다
+> 📢  2024년 2학기 [AIKU](https://github.com/AIKU-Official) 활동으로 진행한 프로젝트입니다
 
 ## 소개
 
@@ -10,12 +10,10 @@
 1. audio to text (whisper), image to text (blip) 를 통해 원본 영상에서 text 추출
 2. text를 바탕으로 LLM을 활용해 사용자의 요구를 반영한 특정 타임스탬프 출력
 3. 추출된 쇼츠에서 행동 및 감정을 분석하는 알고리즘을 이용하여 제목 생성
-86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-12-25_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.05.54.png)
+![pipeline](assets/model_pipeline.png)
 
 ## 결과
-
-https://github.com/user-attachments/assets/dcae2979-9757-443e-b589-70cfc8fe2709
-
+![result video](assets/result.mp4)
 
 ## 팀원
 
