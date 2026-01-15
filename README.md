@@ -18,6 +18,6 @@
 ## 팀원
 
 - [서연우](https://github.com/readygetset): 문제 정의, 전체 모델 파이프라인 구성, 데이터셋 수집
-- [김지연](https://github.com/delaykimm):코드 작성, 논문 리서치, 프롬포트 작성, video caption 추출
+- [김지연](https://github.com/delaykimm): 코드 작성, 논문 리서치, 프롬포트 작성, video caption 추출
 - [성유진](https://github.com/dinyudin203): 코드 작성, 눈문 리서치, STT 추출
 - [송현지](https://github.com/kelly062001): 코드 작성, 논문 리서치, STT 추출
